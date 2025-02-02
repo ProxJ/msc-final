@@ -22,7 +22,7 @@ Our experiments show that the verification objective is more effective at choosi
 best expression than the widely used beam search. We further show that when our
 two objectives are used in conjunction, they can effectively guide our model to learn
 robust heuristics for the MWP task. In particular, we achieve an absolute percentage
-improvement of 9.7% and 5.3% over our baseline and the state-of-the-art models on
+improvement of $9.7%$ and $5.3%$ over our baseline and the state-of-the-art models on
 the SVAMP datasets. 
 
 >> Code to be released after publication.
